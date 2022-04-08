@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+.ant-layout-header {
+    background: #EFFFFD;
+    height: 80px;
+}
+.ant-layout-content {
+    min-height: 614px;
+    background: #fff;
+}
+.ant-layout-footer {
+    background: #e9f1f6;
+    text-align: center;
+    /* color: #758a99; */
+    color: #6b6882;
+    padding: 14px 50px;
+}
